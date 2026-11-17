@@ -1,6 +1,6 @@
 {
   "name": "quaternion-rotation-interpolation-lib",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Spherical linear interpolation between unit quaternions, plus the composition and vector-rotation helpers needed to build a 3D orientation pipeline.",
   "type": "module",
   "main": "src/index.js",
